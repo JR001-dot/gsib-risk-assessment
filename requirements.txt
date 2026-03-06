@@ -1,0 +1,11 @@
+transformers
+torch
+bertopic
+hdbscan
+vaderSentiment
+statsmodels
+sentence-transformers
+pandas
+plotly
+matplotlib
+numpy
