@@ -1,0 +1,14 @@
+# Data is not published with this repository
+data/
+*.csv
+*.xlsx
+*.xls
+*.pdf
+*.docx
+
+# Generated outputs
+*_output/
+*.png
+*.html
+.ipynb_checkpoints/
+__pycache__/
